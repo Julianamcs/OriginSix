@@ -26,8 +26,7 @@
  <br/> &nbsp; &nbsp; &nbsp; &nbsp;diversos dispositivos. Colocaremos nosso código no GitHub e teremos um link para que nossos colegas,
  <br/> &nbsp; &nbsp; &nbsp; &nbsp;familiares ou clientes, possam ver o projeto funcionando. Além disso, apresentaremos desafios para
  <br/> &nbsp; &nbsp; &nbsp; &nbsp;que você continue evoluindo nesse universo da programação.
- <br/>
- <br/><h3> :earth_americas: &nbsp; <b>Links da NLW#6: Origin®</b></h3>
+ <h3> :earth_americas: &nbsp; <b>Links da NLW#6: Origin®</b></h3>
  <br/> :house_with_garden: &nbsp;Link do Material da Mission: Origin: https://www.notion.so/Mission-Origin-003847efca1f4d8f938beb5c4f6a3578
  <br/> :computer: &nbsp;Config. do ambiente: https://www.notion.so/Configura-es-do-ambiente-6ec20312bde94ca79096b6c9decf3f3f
  <br/> :computer: &nbsp;Material das aulas: https://www.notion.so/Material-para-as-aulas-62a9d83b24244526ae48486f5e5ebefc
