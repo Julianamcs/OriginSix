@@ -33,8 +33,9 @@
  <br/> :dart: &nbsp;Site dos Ícones: https://www.iconfinder.com/icon-sets/popular
  <br/> :smiley: &nbsp;Emoji do README: https://github.com/ikatyang/emoji-cheat-sheet
  <br/>
- <br/> :rocket: &nbsp; :copyright:<b><i>Todos os diretos reservados pela ROCKTSEAT:registered: &nbsp; :basecampy: &nbsp; https://rocketseat.com.br/</i></b>
- <br/>  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin JulianaMCS](https://img.shields.io/badge/-JulianaMCS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianamcs/)](https://www.linkedin.com/in/julianamcs/)
+ <br/> <h6>:rocket:&nbsp;:copyright:<b><i>Todos os diretos reservados pela ROCKTSEAT®️ &nbsp;:desktop_computer:&nbsp;https://rocketseat.com.br/</i></b></h6>
+ <br/>  
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin JulianaMCS](https://img.shields.io/badge/-JulianaMCS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianamcs/)](https://www.linkedin.com/in/julianamcs/)
 [![Gmail JulianaMCS](https://img.shields.io/badge/-JulianaMCS@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julyanamcs@gmail.com)](mailto:julyanamcs@gmail.com)
 
 
