@@ -39,7 +39,7 @@
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin JulianaMCS](https://img.shields.io/badge/-JulianaMCS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianamcs/)](https://www.linkedin.com/in/julianamcs/)
 [![Gmail JulianaMCS](https://img.shields.io/badge/-JulianaMCS@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julyanamcs@gmail.com)](mailto:julyanamcs@gmail.com)
  </br>
- </br> :satellite: &nbsp;<span style="fonte-size:5px;">Emoji do README: https://github.com/ikatyang/emoji-cheat-sheet</span>
+ </br> :satellite: &nbsp;<h8>Emoji do README: https://github.com/ikatyang/emoji-cheat-sheet</h8>
 
 
 
