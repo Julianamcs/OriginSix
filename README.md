@@ -1,20 +1,20 @@
-<img width="auto" src="https://github.com/Julianamcs/OriginSix/blob/master/Img/bg.jpg">
-
+<p align="center">
+  <img alt="OriginSix" src="https://github.com/Julianamcs/nlw-06-origin/blob/main/.github/preview.png" width="100%">
+</p>
+<br>
 ### :octocat: Hi there :wave: 
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-  <a href="#-contato">Contato</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contato">Contato</a>
 </p>
 
 <br>
 
-<p align="center">
-  <img alt="OriginSix" src="https://github.com/Julianamcs/nlw-06-origin/blob/main/.github/preview.png" width="100%">
-</p>
+
 
 ## 🚀 Tecnologias
 
