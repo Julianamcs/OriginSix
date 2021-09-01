@@ -9,16 +9,10 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src=".github/preview.png" width="100%">
+  <img alt="OriginSix" src="https://github.com/Julianamcs/nlw-06-origin/blob/main/.github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -44,13 +38,6 @@ Utilitários
 
 OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1009807319507822993/Origin-Six). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-
- <h2><b>:rocket: &nbsp;Mission: Origin®</b></h2>
-
  <br/> :pushpin: &nbsp; <b>Aula 1: O começo de tudo</b>
  <br/> :memo: &nbsp;Nesta aula teremos o conhecimento inicial de programação. Estaremos iniciando nosso projeto e adquirindo
  <br/> &nbsp; &nbsp; &nbsp; &nbsp;conhecimentos fundamentais de HTML e CSS, além de iniciarmos um novo vocabulário de palavras
@@ -73,14 +60,13 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
  <br/> &nbsp; &nbsp; &nbsp; &nbsp;diversos dispositivos. Colocaremos nosso código no GitHub e teremos um link para que nossos colegas,
  <br/> &nbsp; &nbsp; &nbsp; &nbsp;familiares ou clientes, possam ver o projeto funcionando. Além disso, apresentaremos desafios para
  <br/> &nbsp; &nbsp; &nbsp; &nbsp;que você continue evoluindo nesse universo da programação.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1009807319507822993/Origin-Six). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+
  <br/>
- <br/> :earth_americas: &nbsp;<span style="fonte-size:18px;"><b>Links da Mission: Origin®</b></span>
- <br/> :house_with_garden: &nbsp;Link do Material da Mission: Origin: https://www.notion.so/Mission-Origin-003847efca1f4d8f938beb5c4f6a3578
- <br/> :computer: &nbsp;Config. do ambiente: https://www.notion.so/Configura-es-do-ambiente-6ec20312bde94ca79096b6c9decf3f3f
- <br/> :computer: &nbsp;Material das aulas: https://www.notion.so/Material-para-as-aulas-62a9d83b24244526ae48486f5e5ebefc
- <br/> :camera: &nbsp;Site para Imagens Gratuita: https://unsplash.com/
- <br/> :capital_abcd: &nbsp;Fontes do Google: https://fonts.google.com/
- <br/> :dart: &nbsp;Site dos Ícones: https://www.iconfinder.com/icon-sets/popular
  <h6>:rocket:&nbsp;<b><i>©Todos os diretos reservados pela ROCKTSEAT® &nbsp;:desktop_computer:&nbsp;https://rocketseat.com.br/</i></b></h6>
  <h6> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; Emoji README: https://github.com/ikatyang/emoji-cheat-sheet</h6>
