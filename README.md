@@ -27,7 +27,7 @@
  <br/> &nbsp; &nbsp; &nbsp; &nbsp;familiares ou clientes, possam ver o projeto funcionando. Além disso, apresentaremos desafios para
  <br/> &nbsp; &nbsp; &nbsp; &nbsp;que você continue evoluindo nesse universo da programação.
  <br/>
- <br/><span style="fonte-size:18px;"> :earth_americas: &nbsp;<b>Links da Mission: Origin®</b></span>
+ <br/> :earth_americas: &nbsp;<span style="fonte-size:18px;"><b>Links da Mission: Origin®</b></span>
  <br/> :house_with_garden: &nbsp;Link do Material da Mission: Origin: https://www.notion.so/Mission-Origin-003847efca1f4d8f938beb5c4f6a3578
  <br/> :computer: &nbsp;Config. do ambiente: https://www.notion.so/Configura-es-do-ambiente-6ec20312bde94ca79096b6c9decf3f3f
  <br/> :computer: &nbsp;Material das aulas: https://www.notion.so/Material-para-as-aulas-62a9d83b24244526ae48486f5e5ebefc
@@ -38,7 +38,8 @@
  <br/><h6>:rocket:&nbsp;<b><i>©Todos os diretos reservados pela ROCKTSEAT® &nbsp;:desktop_computer:&nbsp;https://rocketseat.com.br/</i></b></h6> 
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin JulianaMCS](https://img.shields.io/badge/-JulianaMCS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianamcs/)](https://www.linkedin.com/in/julianamcs/)
 [![Gmail JulianaMCS](https://img.shields.io/badge/-JulianaMCS@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julyanamcs@gmail.com)](mailto:julyanamcs@gmail.com)
- </br><span style="fonte-size:5px;">:satellite: &nbsp;Emoji do README: https://github.com/ikatyang/emoji-cheat-sheet</span>
+ </br>
+ </br> :satellite: &nbsp;<span style="fonte-size:5px;">Emoji do README: https://github.com/ikatyang/emoji-cheat-sheet</span>
 
 
 
