@@ -4,9 +4,6 @@
 
 :rocket: <h2><b>Mission: Origin®</b></h2>
 
- :computer:  &nbsp;Link do Material da Mission: Origin: https://www.notion.so/Mission-Origin-003847efca1f4d8f938beb5c4f6a3578
- <br/> :computer: &nbsp;Configurações do ambiente: https://www.notion.so/Configura-es-do-ambiente-6ec20312bde94ca79096b6c9decf3f3f
- <br/> :computer: &nbsp;Material para as aulas: https://www.notion.so/Material-para-as-aulas-62a9d83b24244526ae48486f5e5ebefc
  <br/> 📚 &nbsp; <b>Aula 1: O começo de tudo</b>
  <br/> 📝 &nbsp;Nesta aula teremos o conhecimento inicial de programação. Estaremos iniciando nosso projeto e adquirindo 
  <br/> &nbsp; &nbsp; &nbsp; &nbsp;conhecimentos fundamentais de HTML e CSS, além de iniciarmos um novo vocabulário de palavras
@@ -25,6 +22,11 @@
  <br/> &nbsp; &nbsp; &nbsp; &nbsp;dispositivos. Colocaremos nosso código no GitHub e teremos um link para que nossos colegas,
  <br/> &nbsp; &nbsp; &nbsp; &nbsp;familiares ou clientes, possam ver o projeto funcionando. Além disso, apresentaremos desafios
  <br/> &nbsp; &nbsp; &nbsp; &nbsp;para que você continue evoluindo nesse universo da programação.
+ <br/>
+ <br/> &nbsp; <b>Links da Mission: Origin®</b>
+ <br/> :computer:  &nbsp;Link do Material da Mission: Origin: https://www.notion.so/Mission-Origin-003847efca1f4d8f938beb5c4f6a3578
+ <br/> :computer: &nbsp;Config. do ambiente: https://www.notion.so/Configura-es-do-ambiente-6ec20312bde94ca79096b6c9decf3f3f
+ <br/> :computer: &nbsp;Material das aulas: https://www.notion.so/Material-para-as-aulas-62a9d83b24244526ae48486f5e5ebefc
  <br/>  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin JulianaMCS](https://img.shields.io/badge/-JulianaMCS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianamcs/)](https://www.linkedin.com/in/julianamcs/)
 [![Gmail JulianaMCS](https://img.shields.io/badge/-JulianaMCS@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julyanamcs@gmail.com)](mailto:julyanamcs@gmail.com)
 
