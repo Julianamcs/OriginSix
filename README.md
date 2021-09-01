@@ -2,8 +2,6 @@
   <img alt="OriginSix" src="https://github.com/Julianamcs/nlw-06-origin/blob/main/.github/preview.png" width="100%">
 </p>
 
-:octocat: Olá :wave:
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -46,6 +44,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 📧 Contato
 
+:octocat:<b>Olá</b> :wave:
 Entre em contato comigo: [![Linkedin JulianaMCS](https://img.shields.io/badge/-JulianaMCS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianamcs/)](https://www.linkedin.com/in/julianamcs/)
 [![Gmail JulianaMCS](https://img.shields.io/badge/-JulianaMCS@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julyanamcs@gmail.com)](mailto:julyanamcs@gmail.com)
 
