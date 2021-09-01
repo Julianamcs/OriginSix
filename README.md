@@ -1,8 +1,8 @@
 <p align="center">
   <img alt="OriginSix" src="https://github.com/Julianamcs/nlw-06-origin/blob/main/.github/preview.png" width="100%">
 </p>
-<br>
-## :octocat: Hi there :wave: 
+
+:octocat: Olá :wave:
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
