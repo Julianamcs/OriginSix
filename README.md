@@ -27,7 +27,7 @@
  <br/> :computer:  &nbsp;Link do Material da Mission: Origin: https://www.notion.so/Mission-Origin-003847efca1f4d8f938beb5c4f6a3578
  <br/> :computer: &nbsp;Config. do ambiente: https://www.notion.so/Configura-es-do-ambiente-6ec20312bde94ca79096b6c9decf3f3f
  <br/> :computer: &nbsp;Material das aulas: https://www.notion.so/Material-para-as-aulas-62a9d83b24244526ae48486f5e5ebefc
- <br/> 📷 &nbsp;Site para Imagens Gratuita: https://unsplash.com/  
+ <br/> 📷 &nbsp;Site para Imagens Gratuita: https://unsplash.com/
  <br/> 🔤 &nbsp;Fontes do Google: https://fonts.google.com/
  <br/>  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin JulianaMCS](https://img.shields.io/badge/-JulianaMCS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianamcs/)](https://www.linkedin.com/in/julianamcs/)
 [![Gmail JulianaMCS](https://img.shields.io/badge/-JulianaMCS@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julyanamcs@gmail.com)](mailto:julyanamcs@gmail.com)
