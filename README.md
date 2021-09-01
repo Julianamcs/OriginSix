@@ -20,9 +20,9 @@
  <br/> &nbsp; &nbsp; &nbsp; &nbsp;maiores poderes! Adicionaremos os componentes finais da nossa aplicação.
  <br/> :pushpin: &nbsp; <b>Aula 5: Finalizando o projeto</b>
  <br/> :memo::pencil: &nbsp;Estamos finalizando nossa aplicação 🎉 e nesta aula vamos refinar a aplicação criando adaptações para diversos
- <br/> &nbsp; &nbsp; &nbsp; &nbsp;dispositivos. Colocaremos nosso código no GitHub e teremos um link para que nossos colegas,
- <br/> &nbsp; &nbsp; &nbsp; &nbsp;familiares ou clientes, possam ver o projeto funcionando. Além disso, apresentaremos desafios
- <br/> &nbsp; &nbsp; &nbsp; &nbsp;para que você continue evoluindo nesse universo da programação.
+ <br/> &nbsp; &nbsp; &nbsp; &nbsp;dispositivos. Colocaremos nosso código no GitHub e teremos um link para que nossos colegas, familiares ou
+ <br/> &nbsp; &nbsp; &nbsp; &nbsp;clientes, possam ver o projeto funcionando. Além disso, apresentaremos desafios para que você continue
+ <br/> &nbsp; &nbsp; &nbsp; &nbsp;evoluindo nesse universo da programação.
  <br/>
  <br/> :earth_americas: &nbsp; <b>Links da Mission: Origin®</b>
  <br/> :house_with_garden: &nbsp;Link do Material da Mission: Origin: https://www.notion.so/Mission-Origin-003847efca1f4d8f938beb5c4f6a3578
@@ -33,7 +33,7 @@
  <br/> :dart: &nbsp;Site dos Ícones: https://www.iconfinder.com/icon-sets/popular
  <br/> :smiley: &nbsp;Emoji do README: https://github.com/ikatyang/emoji-cheat-sheet
  <br/>
- <br/> :rocket:  &nbsp; :copyright:<b><i>Todos os diretos reservados pela ROCKTSEAT:registered:</i></b>
+ <br/> :rocket: &nbsp; :copyright:<b><i>Todos os diretos reservados pela ROCKTSEAT:registered: &nbsp; :basecampy: &nbsp; https://rocketseat.com.br/</i></b>
  <br/>  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin JulianaMCS](https://img.shields.io/badge/-JulianaMCS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianamcs/)](https://www.linkedin.com/in/julianamcs/)
 [![Gmail JulianaMCS](https://img.shields.io/badge/-JulianaMCS@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julyanamcs@gmail.com)](mailto:julyanamcs@gmail.com)
 
