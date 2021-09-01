@@ -2,25 +2,25 @@
 
 ### Hi there 👋
 
-:rocket: <h2>Mission: Origin®</h2>
+:rocket: <h2><b>Mission: Origin®</b></h2>
 
  :computer:  &nbsp;Link do Material da Mission: Origin: https://www.notion.so/Mission-Origin-003847efca1f4d8f938beb5c4f6a3578
  <br/> :computer: &nbsp;Configurações do ambiente: https://www.notion.so/Configura-es-do-ambiente-6ec20312bde94ca79096b6c9decf3f3f
  <br/> :computer: &nbsp;Material para as aulas: https://www.notion.so/Material-para-as-aulas-62a9d83b24244526ae48486f5e5ebefc
- <br/> <h5> 📚 &nbsp;Aula 1: O começo de tudo</h5>
+ <br/> 📚 &nbsp; <b>Aula 1: O começo de tudo</b>
  <br/> 📝 &nbsp;Nesta aula teremos o conhecimento inicial de programação. Estaremos iniciando nosso projeto e adquirindo 
  <br/> &nbsp; &nbsp; &nbsp; &nbsp;conhecimentos fundamentais de HTML e CSS, além de iniciarmos um novo vocabulário de palavras
  <br/> &nbsp; &nbsp; &nbsp; &nbsp;desse universo da programação.
- <br/> <h5> 📚 &nbsp;Aula 2: Expandindo o conhecimento </h5>
+ <br/> 📚 &nbsp; <b>Aula 2: Expandindo o conhecimento</b>
  <br/> 📝 &nbsp;Nesta aula iremos adicionar mais informações, tags html e estilo ao nosso projeto, aumentando nosso vocabulário 
  <br/> &nbsp; &nbsp; &nbsp; &nbsp; de propriedades CSS, além do HTML. Daremos início à programação em JavasScript.
- <br/> <h5>📚 &nbsp;Aula 3: Novos controles</h5>
+ <br/> 📚 &nbsp; <b>Aula 3: Novos controles</b>
  <br/> 📝 &nbsp;Nesta aula vamos construir novos elementos para o nosso projeto, fazendo ele ficar ainda mais dinâmico e único,
  <br/> &nbsp; &nbsp; &nbsp; &nbsp; com mais programação Javascript e ajustes CSS. Aprenderemos a usar códigos de outros desenvolvedores.
- <br/> <h5> 📚 &nbsp;Aula 4: Aprofundando os conceitos</h5>
+ <br/> 📚 &nbsp; <b>Aula 4: Aprofundando os conceitos</b>
  <br/> 📝 &nbsp;Nesta aula ganharemos maior conhecimento de JavaScript e seus conceitos que irão fazer nossa aplicação ganhar
  <br/> &nbsp; &nbsp; &nbsp; &nbsp;maiores poderes! Adicionaremos os componentes finais da nossa aplicação.
- <br/>  <h5> 📚 &nbsp;Aula 5: Finalizando o projeto</h5>
+ <br/> 📚 &nbsp; <b>Aula 5: Finalizando o projeto</b>
  <br/> 📝 &nbsp;Estamos finalizando nossa aplicação 🎉 e nesta aula vamos refinar a aplicação criando adaptações para diversos
  <br/> &nbsp; &nbsp; &nbsp; &nbsp;dispositivos. Colocaremos nosso código no GitHub e teremos um link para que nossos colegas,
  <br/> &nbsp; &nbsp; &nbsp; &nbsp;familiares ou clientes, possam ver o projeto funcionando. Além disso, apresentaremos desafios
