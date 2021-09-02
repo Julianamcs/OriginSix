@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "codemooseus.vscode-devtools-for-chrome",
+        "msjsdiag.debugger-for-chrome-nightly",
+        "coenraads.bracket-pair-colorizer",
+        "pkief.material-icon-theme",
+        "rocketseat.theme-omni",
+        "ms-ceintl.vscode-language-pack-pt-br",
+        "esbenp.prettier-vscode",
+        "tabnine.tabnine-vscode"
+    ]
+}
